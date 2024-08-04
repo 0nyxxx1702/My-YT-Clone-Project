@@ -3,6 +3,21 @@
 .thumbnail{
     width: 100%;
 }
+.thumbnail-row{
+    position: relative;
+}
+.video-time{
+    font-family: Roboto, Arial;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 4px;
+    border-radius: 3px;
+    position:absolute;
+    background-color: black; 
+    color: white;
+    bottom: 8px;
+    right: 5px;
+}
 .video-title{
     font-weight: 500;
     font-size: 15px;
